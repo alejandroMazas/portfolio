@@ -1,10 +1,10 @@
+
+
 const proyectos = () => {
 
     return (
         <>
-            <div>
-                <h1>Proyectos</h1>
-            </div>
+            <h2>Proyectos</h2>
         </>
     )
 }

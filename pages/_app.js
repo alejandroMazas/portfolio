@@ -1,6 +1,5 @@
 import '../styles/globals.css'
-import Navibar from '../components/navibar'
-import 'bootstrap/dist/css/bootstrap.min.css';
+import Navibar from '../components/Navibar/Navibar'
 
 function MyApp({ Component, pageProps }) {
 
