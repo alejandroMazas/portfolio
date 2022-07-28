@@ -8,9 +8,9 @@ const Navibar = () => {
                 <ul className={style.list}>
                     <li className={style.enl}>
                         <Link href="/"><a className={style.item}>Inicio</a></Link>
-                        <Link href="/proyectos"><a className={style.item}>Proyectos</a></Link>
-                        <Link href="/proyectos"><a className={style.item}>Proyectos</a></Link>
-                        <Link href="/proyectos"><a className={style.item}>Proyectos</a></Link>
+                        <Link href="/projects"><a className={style.item}>Proyectos</a></Link>
+                        <Link href="/ilustración"><a className={style.item}>Ilustración</a></Link>
+                        <Link href="/perfil"><a className={style.item}>Sobre mi</a></Link>
                     </li>
                 </ul>
             </nav>

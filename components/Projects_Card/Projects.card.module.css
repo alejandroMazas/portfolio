@@ -1,0 +1,22 @@
+.container {
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.description {
+    width: 400px;
+    background-color: aqua;
+    padding: 10px;
+}
+
+.tittle {
+    padding: 5px;
+    width: 400px;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.cardImg {
+    width: 400px;
+}
