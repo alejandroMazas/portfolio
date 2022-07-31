@@ -1,22 +1,27 @@
 .container {
-    width: 400px;
-    border: 2px solid black;
-    border-radius: 5px;
+    width: 420px;
+    margin-top: 20px;
 }
 
-.description {
-    width: 400px;
+.descriptionBox {
+    width: 100%;
     background-color: aqua;
     padding: 10px;
 }
 
+.description {
+    margin: 10px;
+    font-size: 1em;
+    padding: 20px;
+}
+
 .tittle {
+    width: 100%;
     padding: 5px;
-    width: 400px;
-    background-color: blueviolet;
+    background-color: rgb(86, 46, 123);
     text-align: center;
 }
 
 .cardImg {
-    width: 400px;
+    width: 100%x;
 }
